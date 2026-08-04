@@ -3968,7 +3968,7 @@ body[data-type='about'] #web_bg {
   -o-animation: gradient 15s ease infinite;
   -ms-animation: gradient 15s ease infinite;
   animation: gradient 15s ease infinite;
-  width: 59%;
+  width: 49%;
 }
 .author-content-item {
   width: 49%;
@@ -4597,7 +4597,7 @@ body[data-type='about'] #web_bg {
   -ms-flex-pack: center;
   -webkit-justify-content: center;
   justify-content: center;
-  width: 39%;
+  width: 49%;
 }
 .author-content-item .author-content-item-tips {
   opacity: 0.8;
