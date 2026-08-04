@@ -4663,7 +4663,7 @@ body[data-type='about'] #web_bg {
   animation: gradient 15s ease infinite;
   min-height: 200px;
   height: fit-content;
-  width: 59%;
+  width: 100%;
 }
 .author-content-item.buff .card-content {
   display: -webkit-box;
